@@ -1,5 +1,35 @@
-Hello this space is for Hactoberfest Pull requests
+# Hacktoberfest Pull Request Template
 
-#Pull Request 1
+This space is for tracking Hacktoberfest pull requests. Please use the template below when submitting your PRs.
 
-#Pull Request 2
+## Pull Request Template
+
+### Title: [Brief description of your changes]
+
+**Type of Change:**
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactoring
+- [ ] Other (please specify)
+
+**Description:**
+[Detailed description of your changes]
+
+**Related Issue:**
+[Link to the issue this PR addresses, if applicable]
+
+**Testing:**
+[Describe how you tested your changes]
+
+**Screenshots:**
+[If applicable, add screenshots to help explain your changes]
+
+---
+## Previous Pull Requests:
+
+#Pull Request 1:
+[Use template above]
+
+#Pull Request 2:
+[Use template above]
